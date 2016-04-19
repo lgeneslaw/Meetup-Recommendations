@@ -5,6 +5,8 @@ Simply download GroupFinderByDay.jar and run
 
 `java -jar GroupFinderByDay.jar`
 
+Note: Typically takes about a minute to run
+
 ## Background
 When I moved to New York, I wanted to find some sort of group/activity to be a part of. I remember having trouble finding something that I would be interested that also met on a regular basis and worked with my schedule. I would have liked to have a service that recommends groups/activities for me and also knows my preferred meeting days/times.
 
